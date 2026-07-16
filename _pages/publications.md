@@ -6,6 +6,10 @@ author_profile: true
 ---
 ### 2026
 
+Michaels, E., **Wallace, R**., Robison, M., Huang, Y., McMillan, C., "Human Attention During Localization of Memory Bugs in C Programs", in ACM Transactions on Software Engineering and Methodology (TOSEM), accepted. [[arXiv](https://arxiv.org/abs/2506.00693)] [[data/code](https://github.com/apcl-research/human_attention_localize_c_bugs)]
+
+Dhakal, M., Su, C., **Wallace, R.**, Fakhimi, C., Bansal, A., Li, T., Huang, Y., McMillan, C., "A Grounded Theory Study to Guide AI-Driven Code Comment Improvement", in Journal of Software: Evolution and Process (JSEP), accepted. 
+
 Fang, Z., **Wallace, R.**, Karas, Z., Li., T., McMillan, C., Huang, Y., "Investigating the Feasibility of Conducting Webcam-Based Eye-Tracking Studies in Code Comprehension", in IEEE Transactions on Software Engineering (TSE), accepted. [[data](https://ieee-dataport.org/documents/investigating-feasibility-conducting-webcam-based-eye-tracking-studies-code-comprehension)]
 
 ### 2025
